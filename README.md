@@ -14,9 +14,9 @@
 + 박혜란(pnu40206) : https://github.com/RANNY1042
 + 배지현(pnu40207) : https://github.com/baejihyen
 + 신건영(pnu40208) : 
-+ 신윤정(pnu40209) : 
++ 신윤정(pnu40209) : https://github.com/24shiny
 + 오지현(pnu40210) : https://github.com/ozzzih
-+ 옥경림(pnu40211) :  https://github.com/kyung89
++ 옥경림(pnu40211) : https://github.com/kyung89
 + 유수영(pnu40212) : 
 + 이나영(pnu40213) : https://github.com/akasha-rec
 + 이민지(pnu40214) : 
