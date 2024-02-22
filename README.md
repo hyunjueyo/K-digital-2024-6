@@ -6,7 +6,7 @@
 + 김도영(pnusw10) : 
 + 김민정(pnusw18) : 
 + 김보성(pnusw19) : 
-+ 김세영(pnu40201) : 
++ 김세영(pnu40201) : https://github.com/Engse-PNU-CSE
 + 김우정(pnu40202) : 
 + 김정원(pnu40203) : 
 + 김현주(pnu40204) : 
