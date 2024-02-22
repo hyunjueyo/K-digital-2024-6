@@ -16,7 +16,7 @@
 + 신건영(pnu40208) : 
 + 신윤정(pnu40209) : 
 + 오지현(pnu40210) : https://github.com/ozzzih
-+ 옥경림(pnu40211) : 
++ 옥경림(pnu40211) :  https://github.com/kyung89
 + 유수영(pnu40212) : 
 + 이나영(pnu40213) : https://github.com/akasha-rec
 + 이민지(pnu40214) : 
