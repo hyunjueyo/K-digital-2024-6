@@ -11,7 +11,7 @@
 + 김세영(pnu40201) : https://github.com/Engse-PNU-CSE
 + 김우정(pnu40202) : https://github.com/AwesomeJuneKim
 + 김정원(pnu40203) :  https://github.com/jwkim97211
-+ 김현주(pnu40204) : 
++ 김현주(pnu40204) : https://github.com/hyunjueyo
 + 박윤환(pnu40205) : https://github.com/yhp0308  
 + 박혜란(pnu40206) : https://github.com/RANNY1042
 + 배지현(pnu40207) : https://github.com/baejihyen
