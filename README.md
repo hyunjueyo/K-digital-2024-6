@@ -7,7 +7,7 @@
 + 김민정(pnusw18) : 
 + 김보성(pnusw19) : 
 + 김세영(pnu40201) : 
-+ 김우정(pnu40202) : 
++ 김우정(pnu40202) : https://github.com/AwesomeJuneKim
 + 김정원(pnu40203) : 
 + 김현주(pnu40204) : 
 + 박윤환(pnu40205) : 
