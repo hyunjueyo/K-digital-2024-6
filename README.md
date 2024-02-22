@@ -1,8 +1,10 @@
 # K-digital-2024-6
 
 + 고진혁(pnu40140) : https://github.com/cybermin
+  
 + 곽동현(pnusw05) : https://github.com/etoto06
-+ 김대희(pnusw07) : 
++ 김대희(pnusw07) : https://github.com/everydayday
+ 
 + 김도영(pnusw10) : 
 + 김민정(pnusw18) : https://github.com/mjmmjmmjjjmj
 + 김보성(pnusw19) : 
