@@ -1,6 +1,6 @@
 # K-digital-2024-6
 
-+ 고진혁(pnu40140) : 
++ 고진혁(pnu40140) : https://github.com/cybermin
 + 곽동현(pnusw05) : 
 + 김대희(pnusw07) : 
 + 김도영(pnusw10) : 
