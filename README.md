@@ -27,5 +27,5 @@
 + 장민우(pnu40219) : 
 + 전근우(pnu40220) : 
 + 채수철(pnu40221) : 
-+ 최인규(pnu40222) : 
++ 최인규(pnu40222) : https://github.com/bokuwahanya  
 + 황인상(pnu40223) : 
