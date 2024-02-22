@@ -8,17 +8,17 @@
 + 김보성(pnusw19) : 
 + 김세영(pnu40201) : https://github.com/Engse-PNU-CSE
 + 김우정(pnu40202) : https://github.com/AwesomeJuneKim
-+ 김정원(pnu40203) : 
++ 김정원(pnu40203) :  https://github.com/jwkim97211
 + 김현주(pnu40204) : 
-+ 박윤환(pnu40205) : 
++ 박윤환(pnu40205) :  
 + 박혜란(pnu40206) : https://github.com/RANNY1042
-+ 배지현(pnu40207) : 
++ 배지현(pnu40207) : https://github.com/baejihyen
 + 신건영(pnu40208) : 
 + 신윤정(pnu40209) : 
 + 오지현(pnu40210) : https://github.com/ozzzih
 + 옥경림(pnu40211) : 
 + 유수영(pnu40212) : 
-+ 이나영(pnu40213) : 
++ 이나영(pnu40213) : https://github.com/akasha-rec
 + 이민지(pnu40214) : 
 + 이세련(pnu40215) : https://github.com/tpfus10
 + 이영인(pnu40216) : 
