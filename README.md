@@ -20,7 +20,7 @@
 + 유수영(pnu40212) : 
 + 이나영(pnu40213) : 
 + 이민지(pnu40214) : 
-+ 이세련(pnu40215) : 
++ 이세련(pnu40215) : https://github.com/tpfus10
 + 이영인(pnu40216) : 
 + 이왕훈(pnu40217) : https://github.com/52hater/
 + 이준승(pnu40218) : 
