@@ -10,9 +10,9 @@
 + 김우정(pnu40202) : https://github.com/AwesomeJuneKim
 + 김정원(pnu40203) :  https://github.com/jwkim97211
 + 김현주(pnu40204) : 
-+ 박윤환(pnu40205) : 
++ 박윤환(pnu40205) :  
 + 박혜란(pnu40206) : https://github.com/RANNY1042
-+ 배지현(pnu40207) : 
++ 배지현(pnu40207) : https://github.com/baejihyen
 + 신건영(pnu40208) : 
 + 신윤정(pnu40209) : 
 + 오지현(pnu40210) : https://github.com/ozzzih
