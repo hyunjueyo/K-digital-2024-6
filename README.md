@@ -4,7 +4,7 @@
 + 곽동현(pnusw05) : 
 + 김대희(pnusw07) : 
 + 김도영(pnusw10) : 
-+ 김민정(pnusw18) : 
++ 김민정(pnusw18) : https://github.com/mjmmjmmjjjmj
 + 김보성(pnusw19) : 
 + 김세영(pnu40201) : 
 + 김우정(pnu40202) : 
