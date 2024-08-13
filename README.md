@@ -20,7 +20,7 @@
 + 오지현(pnu40210) : https://github.com/ozzzih
 + 옥경림(pnu40211) : https://github.com/kyung89
 + 유수영(pnu40212) : 
-+ 이나영(pnu40213) : https://github.com/akasha-rec
++ 이나영(pnu40213) :
 + 이민지(pnu40214) : 
 + 이세련(pnu40215) : https://github.com/tpfus10
 + 이영인(pnu40216) : https://github.com/LeeYeongin
